@@ -1,0 +1,8 @@
+C:\Curso_c#\POO_DFILITTO\pooJogoAdivinhacao\pooJogoAdivinhacao\bin\Debug\pooJogoAdivinhacao.exe.config
+C:\Curso_c#\POO_DFILITTO\pooJogoAdivinhacao\pooJogoAdivinhacao\bin\Debug\pooJogoAdivinhacao.exe
+C:\Curso_c#\POO_DFILITTO\pooJogoAdivinhacao\pooJogoAdivinhacao\bin\Debug\pooJogoAdivinhacao.pdb
+C:\Curso_c#\POO_DFILITTO\pooJogoAdivinhacao\pooJogoAdivinhacao\obj\Debug\pooJogoAdivinhacao.csproj.AssemblyReference.cache
+C:\Curso_c#\POO_DFILITTO\pooJogoAdivinhacao\pooJogoAdivinhacao\obj\Debug\pooJogoAdivinhacao.csproj.SuggestedBindingRedirects.cache
+C:\Curso_c#\POO_DFILITTO\pooJogoAdivinhacao\pooJogoAdivinhacao\obj\Debug\pooJogoAdivinhacao.csproj.CoreCompileInputs.cache
+C:\Curso_c#\POO_DFILITTO\pooJogoAdivinhacao\pooJogoAdivinhacao\obj\Debug\pooJogoAdivinhacao.exe
+C:\Curso_c#\POO_DFILITTO\pooJogoAdivinhacao\pooJogoAdivinhacao\obj\Debug\pooJogoAdivinhacao.pdb
